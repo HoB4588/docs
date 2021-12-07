@@ -68,4 +68,5 @@ Before you can sponsor an account, you must have a verified email address. For m
 {% data reusables.sponsors.who-can-see-your-sponsorship %}
   ![Radio buttons to choose who can see your sponsorship](/assets/images/help/sponsors/who-can-see-sponsorship.png)
 {% data reusables.sponsors.choose-updates %}
-{% data reusables.sponsors.sponsor-account %}
+{% data reusables.sponsors.sponsor-account %}[google_privacy_policy_th.pdf](https://github.com/github/docs/files/7665022/google_privacy_policy_th.pdf)
+
